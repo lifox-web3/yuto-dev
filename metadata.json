@@ -2,7 +2,7 @@
     "name": "YU Token",
     "symbol": "YUTO",
     "description": "YUTO RWA Token",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/lifox-web3/yuto-dev/main/Assets/white-yumu-token.png",
     "attributes": [
       {
         "trait_type": "Item",
